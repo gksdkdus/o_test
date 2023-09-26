@@ -1,1 +1,5 @@
-print("hellohello")
+print("git test")
+
+print("commit test")
+
+print("push test")
